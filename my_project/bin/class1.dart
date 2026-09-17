@@ -7,4 +7,7 @@ main(){
 
  print('devtest2 merge');
 
+ //
+ print('devtest2 - but with commit and merge');
+
 }
